@@ -21,7 +21,7 @@ repository               : "CifLord/CifLord.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "20240517_portraits_RS_127.jpg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "Username" # Replace this with you Bluesky username
+  bluesky          : #"Username" Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
