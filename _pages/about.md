@@ -14,6 +14,7 @@ I had previously worked as a post-doctoral fellow under Professor <a href="https
 
 Scientific Web Applications and tutorials
 ======
+<img align="right" width="100" height="100" src="images/yeah_science.gif">
 In addition to being a personal website about my professional life and career, I'll also be using it to host some useful toy web applications for scientific analysis. These are mainly intended for educational purposes and also serve as a way for me to further develop my programming skills during my free time. You can click on the buttons on top to see what I've been working on. 
 
-I'll also be posting scientific tutorials regarding subjects such as ab-initio thermodynamics, catalysis, and electronic structure analysis. <img align="right" src="images/yeah_science.gif">
+I'll also be posting scientific tutorials regarding subjects such as ab-initio thermodynamics, catalysis, and electronic structure analysis.
