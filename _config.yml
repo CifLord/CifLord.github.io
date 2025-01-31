@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Richard Tran / CifLord"
 title_separator          : "-"
 name                     : &name "Richard Tran"
-description              : &description "I am a theoretical materials chemist working in an interdisciplinary field that integrates material science, chemical engineering, nanotechnology, data informatics, and machine learning. As a scientist, my hope is to further our collective knowledge by unraveling the underlying phenomena guiding the material world with which we build our society. As an engineer, my hope is to discover new materials with the technological relevance to impact our world and bring about a better tomorrow."
+description              : &description ""
 url                      : https://ciflord.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CifLord/CifLord.github.io"
