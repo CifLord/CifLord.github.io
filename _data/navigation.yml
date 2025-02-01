@@ -15,7 +15,7 @@ main:
     url: /teaching/    
             
   - title: "CV"
-    url: /cv/
+    url: http://CifLord.github.io/files/CV.pdf
             
   - title: "News"
     url: /news/
