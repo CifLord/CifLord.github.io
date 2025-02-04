@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /news/
 title: "News"
 redirect_from: 
   - /news/
