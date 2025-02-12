@@ -6,7 +6,7 @@ permalink: /publication/surface_energies_of_elemental_crystals
 excerpt: #''
 date: 2016-09-13
 venue: 'Scientific Data'
-paperurl: 'http://CifLord.github.io/files/surface_energies_of_elemental_crystals.pdf'
+paperurl: 'http://CifLord.github.io/files/papers/surface_energies_of_elemental_crystals.pdf'
 citation: 'Tran, R., Xu, Z., Radhakrishnan, B., Winston, D., Sun, W., Persson, K. A., & Ong, S. P. (2016). Surface energies of elemental crystals. Scientific Data, 3, 160080. https://doi.org/10.1038/sdata.2016.80'
 ---
 

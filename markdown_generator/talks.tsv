@@ -1,6 +1,6 @@
 		title	type	url_slug	venue	date	location	talk_url	description
-		Discovery of Catalysts for the Application of NO$_3$RR for Water Purification Using Machine Learning Techniques	Talk	AICHE	American Institute of Chemical Engineers	2021-09-11	"Boston, MA"		
-		Data-Driven Assisted Quantum Chemistry of Catalytic Materials	Talk	MRS	Materials Research Society	2022-11-05	"Honolulu, HI"		
-		Machine learning assisted screening of oxide catalysts for OER	Talk	ACS	American Chemical Society	2023-14-08	"San Francisco, CA"		
-		Applications of the Open Catalyst Project: High-throughput screening and design of heterogeneous catalysts	Talk	ACS	American Chemical Society	2024-25-03	"New Orleans, LA"		
-		Rational Design of Nanoscale Stabilized Oxide Catalysts for OER with OC22	Talk	AICHE	American Institute of Chemical Engineers	2024-28-10	"San Diego, CA"		
+		Discovery of Catalysts for the Application of NO$_3$RR for Water Purification Using Machine Learning Techniques	Talk	AICHE	American Institute of Chemical Engineers	2021-09-11	"Boston, MA"	http://CifLord.github.io/files/talks/AICHE_Boston_11092021.pdf	
+		Data-Driven Assisted Quantum Chemistry of Catalytic Materials	Talk	MRS	Materials Research Society	2022-11-05	"Honolulu, HI"	http://CifLord.github.io/files/talks/MRS_Honolulu_2022_05_11.pdf	
+		Machine learning assisted screening of oxide catalysts for OER	Talk	ACS	American Chemical Society	2023-14-08	"San Francisco, CA"	http://CifLord.github.io/files/talks/ACS_San_Francisco_08142023.pdf	
+		Applications of the Open Catalyst Project: High-throughput screening and design of heterogeneous catalysts	Talk	ACS	American Chemical Society	2024-25-03	"New Orleans, LA"	http://CifLord.github.io/files/talks/ACS_New_Orleans_03252024.pdf	
+		Rational Design of Nanoscale Stabilized Oxide Catalysts for OER with OC22	Talk	AICHE	American Institute of Chemical Engineers	2024-28-10	"San Diego, CA"	http://CifLord.github.io/files/talks/AICHE_San_Diego_10282024.pdf	
