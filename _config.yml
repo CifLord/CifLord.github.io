@@ -227,6 +227,9 @@ collections:
   News:
     output: true
     permalink: /:collection/:path/
+  Tutorials:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -262,6 +265,15 @@ defaults:
   - scope:
       path: ""
       type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _tutorials
+  - scope:
+      path: ""
+      type: _tutorials
     values:
       layout: single
       author_profile: true
