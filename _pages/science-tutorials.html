@@ -5,14 +5,4 @@ title: "Tutorials"
 author_profile: true
 ---
 
-<div class="wordwrap">You can also find my articles on</div>
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for tutorial in site.tutorials %}
-  {% capture year %}{{ tutorials.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
