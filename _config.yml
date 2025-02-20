@@ -227,7 +227,7 @@ collections:
   News:
     output: true
     permalink: /:collection/:path/
-  Tutorials:
+  tutorials:
     output: true
     permalink: /:collection/:path/
 
