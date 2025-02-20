@@ -21,7 +21,7 @@ main:
     url: /year-archive/
             
   - title: "Tutorials"
-    url: /science_tutorials/
+    url: /_/
     
   - title: "Lykoi"
     url: https://lykoi-e8689b2cb7cd.herokuapp.com/
