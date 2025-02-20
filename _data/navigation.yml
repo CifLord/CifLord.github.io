@@ -21,7 +21,7 @@ main:
     url: /year-archive/
             
   - title: "Tutorials"
-    url: /science-tutorials/
+    url: /science_tutorials/
     
   - title: "PhD Thesis"
     url: /thesis/
