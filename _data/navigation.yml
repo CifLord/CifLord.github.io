@@ -17,8 +17,8 @@ main:
   - title: "CV"
     url: http://CifLord.github.io/files/CV.pdf
             
-  - title: "News"
-    url: /news/
+  - title: "Blog Posts"
+    url: /year-archive/
             
   - title: "Tutorials"
     url: /tutorial/
