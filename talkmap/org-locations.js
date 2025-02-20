@@ -5,9 +5,19 @@ var addressPoints = [
     -117.162772
   ],
   [
+    "Salt Lake City, UT",
+    40.7596198,
+    -111.886797
+  ],
+  [
     "San Francisco, CA",
     37.7792588,
     -122.4193286
+  ],
+  [
+    "Ventura, CA",
+    34.4458248,
+    -119.0779359
   ],
   [
     "Boston, MA",
