@@ -1,0 +1,6 @@
+,structure,const,delu_Sr,delu_O,bulk,#
+0,Regular TiO2,4.84,0.5,0.5,SrTiO3,0
+1,DL TiO2,13.07,1.5,1.5,SrTiO3,1
+2,(2x1) DL TiO2,25.14,3.0,3.0,SrTiO3,2
+3,Regular SrO,-2.63,-0.5,-0.5,SrTiO3,3
+4,DL SrO,-8.49,-1.5,-1.5,SrTiO3,4
