@@ -23,8 +23,8 @@ main:
   - title: "Tutorials"
     url: /science_tutorials/
     
-  - title: "PhD Thesis"
-    url: /thesis/
+  - title: "Research"
+    url: /research/
     
   - title: "Lykoi"
     url: https://lykoi-e8689b2cb7cd.herokuapp.com/
