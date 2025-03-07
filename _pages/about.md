@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+header:
+  image: /images/banner.jpg
+
 <img align="right" width="350" height="350" src="images/yeah_science.gif">
 My name is Richard Tran, I'm a theoretical materials chemist working in an interdisciplinary field that integrates material science, chemical engineering, nanotechnology, data informatics, and machine learning. As a scientist, my hope is to further our collective knowledge by unraveling the underlying phenomena guiding the material world with which we build our society. As an engineer, my hope is to discover new materials with the technological relevance to impact our world and bring about a better tomorrow.
 

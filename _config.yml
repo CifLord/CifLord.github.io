@@ -304,7 +304,7 @@ whitelist:
 
 
 header:
-  image: <base_path>/images/banner.jpg
+  image: /images/banner.jpg
 
 # Archives
 #  Type
