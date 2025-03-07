@@ -220,6 +220,8 @@ defaults:
   - scope:
       path: ""
       type: pages
+    header:
+      image: banner.jpg
     values:
       layout: single
       author_profile: true
