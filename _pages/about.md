@@ -4,6 +4,7 @@ title: "Howdy"
 author_profile: true
 header:
   image: banner.jpg
+  width: 1280pt 
 redirect_from: 
   - /about/
   - /about.html
