@@ -2,7 +2,8 @@
 permalink: /
 title: "Howdy"
 author_profile: true
-image: /images/banner.jpg
+header:
+  image: /images/banner.jpg
 redirect_from: 
   - /about/
   - /about.html
