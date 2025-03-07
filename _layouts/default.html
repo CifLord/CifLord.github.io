@@ -9,22 +9,12 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
-
   </head>
 
   <body>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    {% if site.banner_image %}
-    <div class="banner">
-      <img src="{{ site.baseurl }}/{{ site.banner_image }}" alt="Banner">
-    </div>
-    {% endif %}
 
     {{ content }}
 
