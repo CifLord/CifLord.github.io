@@ -5,6 +5,9 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  image: /images/banner.jpg
+
 ---
 
 <img align="right" width="350" height="350" src="images/yeah_science.gif">
