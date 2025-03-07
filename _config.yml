@@ -6,8 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-header:
-  image: /images/banner.jpg
 
 # Basic Site Settings
 locale                   : "en-US"
@@ -303,6 +301,9 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+
+header:
+  image: /images/banner.jpg
 
 # Archives
 #  Type
