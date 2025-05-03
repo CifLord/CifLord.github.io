@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Richard Tran: Howdy"
+title: "Howdy"
 author_profile: true
 header:
   image: banner.jpg
